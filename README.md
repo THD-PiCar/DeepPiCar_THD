@@ -151,3 +151,10 @@ python3 [start.py](http://start.py/) --model=model/model_edgetpu.tflite --labels
 Press q to quit the program
 
 ### Quellen:
+[DeepPiCar - Part 2: Pi Setup and PiCar Assembly](https://towardsdatascience.com/deeppicar-part-2-8512be2133f3)
+
+[How to Turn a Raspberry Pi Into a Wi-Fi Access Point](https://www.tomshardware.com/how-to/raspberry-pi-access-point)
+
+[Get started with the USB Accelerator | Coral](https://coral.ai/docs/accelerator/get-started/#requirements)
+
+[Raspberry Pi als Router einrichten](https://www.tutonaut.de/rasap-raspberry-pi-als-router-accesspoint-oder-wlan-hotspot-nutzen/)
