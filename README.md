@@ -145,7 +145,7 @@ cd DeepPiCar_THD
 ```
 
 ```python
-python3 [start.py](http://start.py/) --model=model/model_edgetpu.tflite --labels=model/labels.txt
+python3 start.py --model=model/model_edgetpu.tflite --labels=model/labels.txt
 ```
 
 Press q to quit the program
