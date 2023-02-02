@@ -4,7 +4,7 @@ import cv2
 import argparse
 import sys
 import time
-from test_drive import DeepPiCar_driving
+from drive import DeepPiCar_driving
 
 from pycoral.utils.dataset import read_label_file
 from pycoral.utils.edgetpu import make_interpreter
