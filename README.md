@@ -32,6 +32,9 @@ Wenn man den Pi nun an ein LAN anschließt hat man auch internet
 ```python
 git clone https://github.com/THD-PiCar/DeepPiCar_THD.git
 ```
+```python
+sudo pip install opencv-python
+```
 
 ### Step 3: PiCar einrichten
 
